@@ -2,7 +2,6 @@ import json
 from fastapi import FastAPI
 from pydantic import BaseModel
 from pymongo import MongoClient
-from fastapi.staticfiles import StaticFiles
 
 
 try:
