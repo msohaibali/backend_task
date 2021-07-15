@@ -1,0 +1,12 @@
+{
+    "MONGO_DB":
+                {
+                    "HOST":"localhost",
+                    "PORT":27017,
+                    "DB_NAME":"TODO",
+                    "COLL_NAME":"tasks",
+                    "AUTHENTICATION":false,
+                    "DB_USERNAME":"",
+                    "DB_PASSWORD":""
+                }
+}
